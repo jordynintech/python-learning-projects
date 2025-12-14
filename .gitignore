@@ -1,0 +1,25 @@
+# macOs system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Test / coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS files
+Thumbs.db
