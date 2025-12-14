@@ -9,7 +9,7 @@ This planner will create a schedule to help users plan their work. The program w
 Reading data from files and processing it is common to almost all programs, even the ones that do not use documents in an obvious manner (for example, games). The basic task of opening windows, laying out buttons, and drawing custom elements are the building blocks of any desktop application.
 
 ## What I Learned
-- How to extract data form a file
+- How to extract data from a file
 - How to use Python Sets
 - How to use namedtuples
 - How to create a simple Tk UI app
