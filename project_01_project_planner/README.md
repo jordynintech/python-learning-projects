@@ -14,4 +14,9 @@ Reading data from files and processing it is common to almost all programs, even
 - How to use namedtuples
 - How to create a simple Tk UI app
 - How to draw using TK Canvas
-  
+
+## Key Learning Takeaways
+- Real-world projects can behave differently across operating systems, even when the code is logically correct
+- GUI frameworks like Tkinter may fail silently, making debugging more challenging
+- Careful reading, incremental testing, and isolating small changes are essential debugging skills
+- Following a tutorial still requires independent problem-solving and validation
